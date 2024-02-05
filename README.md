@@ -2,7 +2,7 @@
 - 👀 Je suis intéressé par le développement web,et mobile 
 - 🌱 J'apprends actuellement css et html 
 - 💞️ Je cherche à collaborer sur des projets open source liés à l'agriculture
-- 📫  Comment me joindre :  krich9859@gmail.com
+- 📫 Adresse:  krich9859@gmail.com
 - 😄 Pronoms : Il/lui.
 - ⚡ Fait amusant : J'adore résoudre des énigmes
 
