@@ -1,6 +1,6 @@
 - 👋 je m'appele @evrard 
 - 👀 Je suis intéressé par le développement web,et mobile 
-- 🌱 J'apprends actuellement css et html 
+- 🌱 J'apprends actuellement css , html et javascript 
 - 💞️ Je cherche à collaborer sur des projets open source liés à l'agriculture
 - 📫 Adresse:  krich9859@gmail.com
 - 😄 Pronoms : Il/lui.
